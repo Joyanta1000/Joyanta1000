@@ -1,5 +1,3 @@
-![I am a web developer](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/279186835_5739510116064801_3288688322324770434_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeESq1j198A85IzfyfgoQ7iRbSn967-ru-ptKf3rv6u76uKV__5hRIQPrF4Wpvy3eq0IN4_ZjdWbU5Jy4wJpndVF&_nc_ohc=MZch0bDxOrMAX-KZBFS&_nc_ht=scontent.fcgp3-1.fna&oh=00_AT8yGr5AhqauNualg0HYU5EulVQc32h2JpS1UQmvdz5G7w&oe=62757D17)
-
 ### Hi there 👋, My name is Joyanta Dutta
 #### I am a web developer
 
