@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Joyanta Dutta
 #### I am a passionate web developer
-I previously worked on many kinds of projects, Now I am working at H&H Group Company, worked at Dynamicflow and Spinner Tech ltd also.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PHP / LARAVEL / VUETIFY / VUEX
 
